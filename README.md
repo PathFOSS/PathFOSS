@@ -1,5 +1,12 @@
+# About
+I am a self-taught full-stack developer with love for UI/UX and Android.
+
+The trifecta of creation, learning, and doing has been my motivation for progressing quickly in educating myself on hard topics. I always dive head first into new languages, frameworks, and seemingly unsolvable problems to perpetually reignite my passion for software development. I use all of the programs I created almost daily and I'm proud of how far I've come on my own.
+
+I am open to new job opportunities related to full stack development and excited to help build amazing new projects.
+
+# Technologies
 <div>
-  <h2 style="color: #A4C639;">Technologies</h2>
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
