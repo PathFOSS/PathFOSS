@@ -1,4 +1,4 @@
-# PathFOSS
+# PathFOSS 👨‍💻
 ## About
 I am a self-taught full-stack developer with love for UI/UX and Android.
 
