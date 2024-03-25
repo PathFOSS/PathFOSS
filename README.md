@@ -1,5 +1,5 @@
-# PathFOSS 👨‍💻
-## About
+$${\color{green}Green}$$ 
+# PathFOSS 👨‍💼
 I am a self-taught full-stack developer with love for UI/UX and Android.
 
 The trifecta of creation, learning, and doing has been my motivation for progressing quickly in educating myself on hard topics. I always dive head first into new languages, frameworks, and seemingly unsolvable problems to perpetually reignite my passion for software development. I use all of the programs I created almost daily and I'm proud of how far I've come on my own.
