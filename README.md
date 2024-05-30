@@ -5,7 +5,7 @@ The trifecta of creation, learning, and doing has been my motivation for progres
 
 I am eager to hear about new job opportunities related to full stack development and excited to help develop meaningful projects.
 
-## Technologies 
+## Technologies
 <div>
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
