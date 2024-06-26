@@ -1,9 +1,9 @@
 # PathFOSS 
-I am a self-taught Full Stack Developer with love for UI/UX and Android.
+I am a hobbyist technology enthusiast with love for website design and Android.
 
-The trifecta of creation, learning, and doing has been my motivation for progressing quickly in educating myself on complex technologies. I always dive head first into new languages, frameworks, and seemingly unsolvable problems to perpetually reignite my passion for software development. I use all of the programs I created almost daily and I'm proud of how far I've come on my own.
+The trifecta of creation, learning, and doing has been my motivation for progressing quickly in educating myself on hard topics. I always dive head first into new seemingly unsolvable problems to perpetually reignite my passion for technology. I use all of the programs I created almost daily and I'm proud of how much I've managed to thrive independently.
 
-I am eager to hear about new job opportunities related to full stack development and excited to help develop meaningful projects.
+I am open to new job opportunities so please do not hesitate to contact me by email.
 
 ## Technologies 
 <div>
